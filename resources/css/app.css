@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-table th, .custom-table td {
+    @apply px-6 py-4;
+}
+
+.custom-table thead th {
+    @apply text-left text-xs font-medium text-gray-500 uppercase tracking-wider bg-gray-50;
+}
+
+.custom-table tbody tr:nth-child(even) {
+    @apply bg-gray-50;
+}
+
+.custom-table tbody tr:hover {
+    @apply bg-indigo-100;
+}
+
+.action-buttons a, .action-buttons button {
+    @apply font-bold py-1 px-3 rounded-md transition duration-150 ease-in-out;
+}
+
+.action-buttons a {
+    @apply text-indigo-600 hover:text-indigo-900 hover:bg-indigo-200;
+}
+
+.action-buttons button {
+    @apply text-red-600 hover:text-red-900 hover:bg-red-200;
+}
