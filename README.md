@@ -11,7 +11,7 @@ This project was built with a focus on Laravel best practices, including the use
 ## 🛠️ Tech Stack & Features
 
 ### Technology Stack
-* **Back-End**: Laravel 11 (PHP Framework)
+* **Back-End**: Laravel 12 (PHP Framework)
 * **Front-End**: Blade, Tailwind CSS, JavaScript (via Vite)
 * **Database**: MySQL
 
@@ -29,7 +29,7 @@ Here are the steps to run this project locally.
 
 1.  **Clone the Repository**
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
+    git clone https://github.com/GifariMadia/BookManagementSystem-PUSC
     cd BookManagementSystem
     ```
 
