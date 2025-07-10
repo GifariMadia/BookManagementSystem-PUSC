@@ -30,7 +30,7 @@ Here are the steps to run this project locally.
 1.  **Clone the Repository**
     ```bash
     git clone https://github.com/GifariMadia/BookManagementSystem-PUSC
-    cd BookManagementSystem
+    cd BookManagementSystem-PUSC
     ```
 
 2.  **Install Dependencies**
